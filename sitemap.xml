@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://helpsite.com/index.html</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://helpsite.com/images/1a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/poweriso.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/powerisob.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/mounting.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/mounting2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/mounted3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://helpsite.com/images/install.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
